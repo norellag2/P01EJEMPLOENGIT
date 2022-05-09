@@ -29,4 +29,5 @@ git add -A
 ## Crear un commit 
 para guardar un conjunto de cambios y crear un punto de control usamos los commit
 ```
-git commit -n "mensaje del commit"
+git commit -m "mensaje del commit"
+```
