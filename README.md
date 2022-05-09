@@ -37,3 +37,7 @@ git commit -m "mensaje del commit"
 git reset --soft (código- commit)
 ```
 con --soft podemos volver a un commit anterior sin deshacer cambios
+```
+git --hard (código commit)
+```
+esta segunda opción git --hard arrasa con todo
